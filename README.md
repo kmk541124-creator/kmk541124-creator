@@ -40,10 +40,10 @@
 
 <div align="center">
   <h2> 📬 Contact me </h2> 
-  <a href="mailto:ssssiyoung1010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ssssiyoung1010@gmail.com">
+  <a href="mailto:kmk541124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmk541124@gmail.com">
   </a>
-  <a href="https://www.instagram.com/siiyoung1013/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/siiyoung1013/">
+  <a href="https://www.instagram.com/kmk.0504/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmk.0504/">
   </a>
 </div>
