@@ -20,6 +20,13 @@
 <div align="center">
   <h2> 🛠️ Tech Stack </h2>
 
+  <h3> 💻 Languages </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,py,js,lua&theme=light" alt="Languages" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
+
   <h3> 🖥️ Frontend </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="Frontend Skills" />
@@ -32,7 +39,7 @@
 
   <h3> 🔧 기타 (Tools & Design) </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,blender&theme=light" alt="Other Skills" />
+    <img src="https://skillicons.dev/icons?i=git,github,goland,unity,figma,blender&theme=light" alt="Other Skills" />
   </a>
 </div>
 
