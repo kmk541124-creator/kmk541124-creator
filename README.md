@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+MuKwan!;Future+Full-Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</div>
+<p>개발자 김무관입니다</p>
 
 <br>
 
@@ -78,8 +74,5 @@
   <h2> 📬 Contact me </h2> 
   <a href="mailto:kmk541124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmk541124@gmail.com">
-  </a>
-  <a href="https://www.instagram.com/kmk.0504/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmk.0504/">
   </a>
 </div>
