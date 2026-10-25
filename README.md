@@ -71,7 +71,7 @@
 <br>
 
 <div align="center">
-  <h2> 📬 Contact me </h2> 
+  <h2> Contact me </h2> 
   <a href="mailto:kmk541124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmk541124@gmail.com">
   </a>
