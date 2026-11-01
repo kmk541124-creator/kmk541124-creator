@@ -64,7 +64,7 @@
 
   <h3> 기타 (Tools & Design) </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,goland,vscode,androidstudio,unity,figma,blender,notion&theme=light" alt="Other Skills" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio,unity,figma,blender,notion&theme=light" alt="Other Skills" />
   </a>
 </div>
 
