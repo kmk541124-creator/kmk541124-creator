@@ -7,17 +7,10 @@
 
   <h3> Languages </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,py,js,ts,go,lua&theme=light" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,cs,go,lua&theme=light" alt="Languages" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
-
-  <h3> Frontend </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs&theme=light" alt="Frontend Skills" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
 
   <h3> Backend </h3>
   <a href="https://skillicons.dev">
@@ -52,19 +45,15 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/librosa-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="librosa" />
   <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 
-  <h3> Game & Hardware </h3>
-  <img src="https://img.shields.io/badge/pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="pygame" />
+  <h3> Hardware </h3>
   <img src="https://img.shields.io/badge/Harmony-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="Harmony" />
-  <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=black" alt="micro:bit" />
 
   <h3> 기타 (Tools & Design) </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio,unity,figma,blender,notion&theme=light" alt="Other Skills" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,unity,notion&theme=light" alt="Other Skills" />
   </a>
 </div>
 
